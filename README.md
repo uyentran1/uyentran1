@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uyen!
 - 👀 I’m currently a Software Development MSc student at the University of Glasgow, UK.
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I’m learning Python and Java at the moment.
 - 📫 How to reach me: tranphuonguyen1011@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I probably drink way more coffee than I should ☕️😆.
