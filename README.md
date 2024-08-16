@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Uyen!
+- 👋 Hi, I’m Uyen, or you can also call me Riley!
 - 👀 I’m currently a Software Development MSc student at the University of Glasgow, UK.
 - 🌱 I’m learning Python and Java at the moment.
 - 📫 How to reach me: tranphuonguyen1011@gmail.com
